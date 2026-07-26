@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=NAKUL%20JHA&fontSize=60&fontColor=3FB950&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=180&section=header&text=NAKUL%20JHA&fontSize=50&fontColor=3FB950&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- QUICK CONTACT BADGES -->
   <p align="center">
@@ -14,30 +14,44 @@
 
 ---
 
-### 🎯 EXECUTIVE SUMMARY
+### 📌 EXECUTIVE SUMMARY
 
-- **Role Target:** Software Development Engineer (SDE-1) / Full Stack Developer / Frontend Engineer
-- **Education:** B.Tech in Computer Science & Engineering (2021–2025) | MITS Gwalior
-- **Experience:** Former SDE Intern @ Techpotli (6 Months)
-- **Core Value:** Production-ready full-stack developer with hands-on experience shipping live national-level applications, integrating REST APIs, and building high-performance UI systems.
+<table>
+  <tr>
+    <td><b>🎯 Role Target</b></td>
+    <td>Software Development Engineer (SDE-1) | Full Stack Developer | Frontend Engineer</td>
+  </tr>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>B.Tech in Computer Science & Engineering (2021–2025) • MITS Gwalior</td>
+  </tr>
+  <tr>
+    <td><b>💼 Experience</b></td>
+    <td>Ex-SDE Intern @ Techpotli (6 Months)</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Core Value</b></td>
+    <td>Production-ready full-stack developer with hands-on experience shipping live national-level applications, integrating REST APIs, and building high-performance UI systems.</td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ TECHNICAL SKILLS MATRIX
 
-| Category | Skill Set |
+| Category | Skills & Frameworks |
 | :--- | :--- |
-| **Languages** | C++, JavaScript, TypeScript, SQL |
-| **Frontend** | React.js, Next.js, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, REST APIs, WebSockets, Socket.IO, Shopify API |
-| **Databases** | MongoDB, PostgreSQL, MySQL, Supabase |
-| **Tools & Cloud** | Git, GitHub, VS Code, Postman, Vercel |
-| **Core Computer Science** | Data Structures & Algorithms (DSA), OOP, DBMS, Operating Systems, Computer Networks |
+| 💻 **Languages** | `C++` `JavaScript` `TypeScript` `SQL` |
+| 🎨 **Frontend** | `React.js` `Next.js` `Redux` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` |
+| ⚙️ **Backend** | `Node.js` `Express.js` `REST APIs` `WebSockets` `Socket.IO` `Shopify API` |
+| 🗄️ **Databases** | `MongoDB` `PostgreSQL` `MySQL` `Supabase` |
+| 🧰 **Tools & Cloud** | `Git` `GitHub` `VS Code` `Postman` `Vercel` |
+| 🧠 **Core CS** | Data Structures & Algorithms (DSA), OOP, DBMS, OS, Computer Networks |
 
 <br />
 
 <div align="center">
-  <!-- VISUAL SKILL BADGES FOR SCANNABILITY -->
+  <!-- VISUAL BADGES FOR HIGH SCANNER IMPACT -->
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,supabase,git,github,postman,vscode,vercel&perline=8" />
 </div>
 
@@ -45,30 +59,29 @@
 
 ### 🚀 PRODUCTION EXPERIENCE & PROJECTS
 
-#### 1. SDE Intern @ Techpotli *(May 2025 – Nov 2025)*
-- Engineered responsive frontend modules using Next.js and Tailwind CSS for operational web portals.
-- Integrated RESTful APIs with dynamic state management to render real-time dashboard analytics.
-- Streamlined user onboarding screens, reducing registration setup friction and drop-off rates.
-- Refactored legacy React components, improving overall page rendering speed by ~20%.
+#### 💼 1. SDE Intern @ Techpotli
+> **Duration:** May 2025 – Nov 2025 | **Location:** Remote
 
-#### 2. Bharatiya Youth Parliament Platform *(Live Production)*
-- **Tech Stack:** Next.js, React.js, Node.js, PostgreSQL, Supabase, Socket.IO
-- **Key Contributions:** Built responsive UI components, integrated live WebSocket endpoints for real-time quiz updates, and developed modular admin panel pages.
-- **Live Link:** [bharatiyayouthparliament.com](https://www.bharatiyayouthparliament.com)
-
-#### 3. IABTM Growth Platform *(Live Production)*
-- **Tech Stack:** Next.js, React.js, Node.js, MongoDB, Shopify API, Socket.IO
-- **Key Contributions:** Built modular frontend pages, integrated backend APIs and Shopify webhooks, and resolved cross-browser UI/UX bugs.
-- **Live Link:** [iambetterthanme.com](https://iambetterthanme.com)
+- **Frontend Engineering:** Built responsive web portals using **Next.js** and **Tailwind CSS**, optimizing interface scalability for enterprise users.
+- **State & API Integration:** Connected RESTful APIs with dynamic state management to render real-time dashboard analytics without latency.
+- **Onboarding Optimization:** Streamlined registration workflows and onboarding screens, reducing friction and user drop-off rates.
+- **Performance Tuning:** Refactored legacy React components, improving overall page rendering speed by **~20%**.
 
 ---
 
-### 📊 GITHUB ANALYTICS
+#### 🌐 2. Bharatiya Youth Parliament Platform
+> **Type:** Live National Production Portal | **Link:** [bharatiyayouthparliament.com](https://www.bharatiyayouthparliament.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakuljha2003&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950&icon_color=3fb950&border_color=30363d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakuljha2003&layout=compact&theme=dark&border_radius=10&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950&border_color=30363d&hide=html,css" width="48%" />
-</div>
+- **Tech Stack:** `Next.js` `React.js` `Node.js` `PostgreSQL` `Supabase` `Socket.IO`
+- **Key Contributions:** Engineered responsive UI components, integrated live WebSocket endpoints for real-time quiz synchronization, and designed modular admin panels for event management.
+
+---
+
+#### 📈 3. IABTM Growth Platform
+> **Type:** Live Client Production App | **Link:** [iambetterthanme.com](https://iambetterthanme.com)
+
+- **Tech Stack:** `Next.js` `React.js` `Node.js` `MongoDB` `Shopify API` `Socket.IO`
+- **Key Contributions:** Built high-converting modular frontend pages, integrated backend APIs alongside Shopify webhooks, and resolved cross-browser layout & performance bugs.
 
 ---
 
