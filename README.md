@@ -1,36 +1,35 @@
-# Hi there, I'm Nakul Jha 👋
+<div align="center">
 
-Full Stack Developer specializing in building high-performance web applications with React.js, Next.js, and Node.js. 
+  <!-- TOP HERO ANIMATED BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=NAKUL%20JHA&fontSize=65&fontColor=3FB950&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (2021–2025)
-- 💼 **Experience:** Former SDE Intern at Techpotli
-- ⚡ **Tech Stack:** React, Next.js, Node.js, Express, TypeScript, MongoDB, PostgreSQL, Tailwind CSS
-- 🎯 **Focus:** Building scalable web applications, REST APIs, and UI systems
+  <!-- SUBTITLE BADGES -->
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%2B+React+%2B+TypeScript;Node.js+%2B+PostgreSQL+%2B+MongoDB;Shipping+High-Performance+Web+Apps" alt="Typing SVG" />
+    </a>
+  </p>
 
----
+  <!-- QUICK SOCIAL CONTACT BADGES -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nakul-jha-baa81a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:nakuljha2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/nakuljha2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
-### 🛠️ Tech Stack & Tools
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
-### 🌐 Key Live Projects
+### ⚡ Terminal Overview
 
-- **[Bharatiya Youth Parliament Platform](https://www.bharatiyayouthparliament.com):** High-traffic live national event platform.
-- **[IABTM Personalized Growth Platform](https://iambetterthanme.com):** Dynamic user dashboards and API integrations.
-
----
-
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/nakul-jha-baa81a236/) | [Email](mailto:nakuljha2003@gmail.com)
+```bash
+nakul@dev-box:~$ neofetch --user
+--------------------------------
+OS         : macOS / Arch Linux
+ROLE       : Software Engineer (Full Stack)
+EDUCATION  : B.Tech Computer Science & Engineering ('25)
+EXPERIENCE : Ex-SDE Intern @ Techpotli
+STACK      : Next.js | React | Node.js | TypeScript | PostgreSQL
+STATUS     : 🛠️ Shipping code & solving LeetCode problems
+LOCATION   : India 🇮🇳
